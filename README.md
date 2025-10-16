@@ -271,7 +271,7 @@ This project is part of the EPITECH curriculum.
 
 ## 👥 Authors
 
-EPITECH Project - B-OOP-400
+Arthur Patrocínio Neves
 
 ---
 
