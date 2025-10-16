@@ -1,0 +1,8 @@
+/bin/
+/obj/
+nanotekspice
+/.vscode
+*.json
+include/miniShell.hpp
+src/miniShell.cpp
+/nts_single
